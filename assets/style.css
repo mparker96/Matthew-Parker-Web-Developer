@@ -7,6 +7,16 @@
   color: aliceblue;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+/* adds backgorund color and alignment to the main content in the body element */
+body {
+  background-color: teal;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline;
+  }
+  
 /* styles the header element. adding background color, padding and text alignment */
 header {
   background-color: #000000;
@@ -26,14 +36,7 @@ header nav ul li {
   display: inline-block;
   margin-left: 20px;
 }
-/* adds backgorund color and alignment to the main content in the body element */
-body {
-background-color: teal;
-text-align: center;
-margin-left: auto;
-margin-right: auto;
-display: inline;
-}
+
 /* adds flexbox capabilites and alignment to the images designated with the container class */
 .container {
   display: flex;
