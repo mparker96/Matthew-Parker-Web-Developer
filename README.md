@@ -15,7 +15,7 @@ The usage of this application is to serve as my portfolio for my work as a web d
 URL to deployed site: https://mparker96.github.io/Matthew-Parker-Web-Developer/ 
 
 
-    ![alt text](./assets/images/mparker96.github.io_Matthew-Parker-Web-Developer_.png)
+   ![My Image](./assets/images/mparker96.github.io_Matthew-Parker-Web-Developer_.png)
 
 
 ## Credits
